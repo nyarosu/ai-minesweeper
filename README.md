@@ -3,7 +3,7 @@ Knowledge-based AI to optimally play minesweeper.
 
 # How to run
 
-Extract the contents to a folder. Install pygame with "pip install pygame". Run runner.py. To watch the AI play, just hold down "Play as AI".
+Extract the contents to a folder. Install python and then pygame with "pip install pygame". Run runner.py. To watch the AI play, just hold down "Play as AI".
 
 # How does it work?
 
